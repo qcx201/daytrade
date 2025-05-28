@@ -1,0 +1,1141 @@
+{
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 10,
+                "buy": 20,
+                "hold": 10,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 10,
+                "buy": 21,
+                "hold": 8,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 10,
+                "buy": 21,
+                "hold": 7,
+                "sell": 0,
+                "strongSell": 1
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 10,
+                "buy": 20,
+                "hold": 8,
+                "sell": 0,
+                "strongSell": 1
+            }
+        ],
+        "maxAge": 86400
+    },
+    "equityPerformance": {
+        "maxAge": 1,
+        "benchmark": {
+            "symbol": "^GSPC",
+            "shortName": "S&P 500"
+        },
+        "performanceOverview": {
+            "asOfDate": {
+                "raw": 1745366400,
+                "fmt": "2025-04-23"
+            },
+            "fiveDaysReturn": {
+                "raw": 0.024411468,
+                "fmt": "2.44%"
+            },
+            "oneMonthReturn": {
+                "raw": -0.009033823,
+                "fmt": "-0.90%"
+            },
+            "threeMonthReturn": {
+                "raw": -0.006306931,
+                "fmt": "-0.63%"
+            },
+            "sixMonthReturn": {
+                "raw": 0.034849133,
+                "fmt": "3.48%"
+            },
+            "ytdReturnPct": {
+                "raw": 0.009615179,
+                "fmt": "0.96%"
+            },
+            "oneYearTotalReturn": {
+                "raw": 0.15191306,
+                "fmt": "15.19%"
+            },
+            "twoYearTotalReturn": {
+                "raw": 0.42910612,
+                "fmt": "42.91%"
+            },
+            "threeYearTotalReturn": {
+                "raw": 0.5367179,
+                "fmt": "53.67%"
+            },
+            "fiveYearTotalReturn": {
+                "raw": 1.1306083,
+                "fmt": "113.06%"
+            },
+            "tenYearTotalReturn": {
+                "raw": 5.19781,
+                "fmt": "519.78%"
+            },
+            "maxReturn": {
+                "raw": 130.51611,
+                "fmt": "13,051.61%"
+            }
+        },
+        "performanceOverviewBenchmark": {
+            "asOfDate": {
+                "raw": 1745366400,
+                "fmt": "2025-04-23"
+            },
+            "fiveDaysReturn": {
+                "raw": -0.003848702,
+                "fmt": "-0.38%"
+            },
+            "oneMonthReturn": {
+                "raw": -0.05146839,
+                "fmt": "-5.15%"
+            },
+            "threeMonthReturn": {
+                "raw": -0.121406324,
+                "fmt": "-12.14%"
+            },
+            "sixMonthReturn": {
+                "raw": -0.07271512,
+                "fmt": "-7.27%"
+            },
+            "ytdReturnPct": {
+                "raw": -0.08599147,
+                "fmt": "-8.60%"
+            },
+            "oneYearTotalReturn": {
+                "raw": 0.06021242,
+                "fmt": "6.02%"
+            },
+            "twoYearTotalReturn": {
+                "raw": 0.30055252,
+                "fmt": "30.06%"
+            },
+            "threeYearTotalReturn": {
+                "raw": 0.25845903,
+                "fmt": "25.85%"
+            },
+            "fiveYearTotalReturn": {
+                "raw": 0.9214596,
+                "fmt": "92.15%"
+            },
+            "tenYearTotalReturn": {
+                "raw": 1.5442679,
+                "fmt": "154.43%"
+            },
+            "maxReturn": {
+                "raw": 303.4088,
+                "fmt": "30,340.88%"
+            }
+        }
+    },
+    "quoteUnadjustedPerformanceOverview": {
+        "maxAge": 1,
+        "benchmark": {
+            "symbol": "^GSPC",
+            "shortName": "S&P 500"
+        },
+        "performanceOverview": {
+            "asOfDate": {
+                "raw": 1745366400,
+                "fmt": "2025-04-23"
+            },
+            "fiveDaysReturn": {
+                "raw": 0.024411468,
+                "fmt": "2.44%"
+            },
+            "oneMonthReturn": {
+                "raw": -0.010603134,
+                "fmt": "-1.06%"
+            },
+            "threeMonthReturn": {
+                "raw": -0.007880576,
+                "fmt": "-0.79%"
+            },
+            "sixMonthReturn": {
+                "raw": 0.031689856,
+                "fmt": "3.17%"
+            },
+            "ytdReturnPct": {
+                "raw": 0.0065328493,
+                "fmt": "0.65%"
+            },
+            "oneYearTotalReturn": {
+                "raw": 0.14517523,
+                "fmt": "14.52%"
+            },
+            "twoYearTotalReturn": {
+                "raw": 0.4124561,
+                "fmt": "41.25%"
+            },
+            "threeYearTotalReturn": {
+                "raw": 0.5092261,
+                "fmt": "50.92%"
+            },
+            "fiveYearTotalReturn": {
+                "raw": 1.0714844,
+                "fmt": "107.15%"
+            },
+            "tenYearTotalReturn": {
+                "raw": 4.8319764,
+                "fmt": "483.20%"
+            },
+            "maxReturn": {
+                "raw": 130.51611,
+                "fmt": "13,051.61%"
+            }
+        },
+        "performanceOverviewBenchmark": {
+            "asOfDate": {
+                "raw": 1745366400,
+                "fmt": "2025-04-23"
+            },
+            "fiveDaysReturn": {
+                "raw": -0.003848702,
+                "fmt": "-0.38%"
+            },
+            "oneMonthReturn": {
+                "raw": -0.05146839,
+                "fmt": "-5.15%"
+            },
+            "threeMonthReturn": {
+                "raw": -0.121406324,
+                "fmt": "-12.14%"
+            },
+            "sixMonthReturn": {
+                "raw": -0.07271512,
+                "fmt": "-7.27%"
+            },
+            "ytdReturnPct": {
+                "raw": -0.08599147,
+                "fmt": "-8.60%"
+            },
+            "oneYearTotalReturn": {
+                "raw": 0.06021242,
+                "fmt": "6.02%"
+            },
+            "twoYearTotalReturn": {
+                "raw": 0.30055252,
+                "fmt": "30.06%"
+            },
+            "threeYearTotalReturn": {
+                "raw": 0.25845903,
+                "fmt": "25.85%"
+            },
+            "fiveYearTotalReturn": {
+                "raw": 0.9214596,
+                "fmt": "92.15%"
+            },
+            "tenYearTotalReturn": {
+                "raw": 1.5442679,
+                "fmt": "154.43%"
+            },
+            "maxReturn": {
+                "raw": 303.4088,
+                "fmt": "30,340.88%"
+            }
+        }
+    },
+    "esgScores": {
+        "maxAge": 86400,
+        "totalEsg": {
+            "raw": 14.25,
+            "fmt": "14.3"
+        },
+        "environmentScore": {
+            "raw": 1.61,
+            "fmt": "1.6"
+        },
+        "socialScore": {
+            "raw": 8.38,
+            "fmt": "8.4"
+        },
+        "governanceScore": {
+            "raw": 4.26,
+            "fmt": "4.3"
+        },
+        "ratingYear": 2025,
+        "ratingMonth": 4,
+        "highestControversy": 3.0,
+        "peerCount": 592,
+        "esgPerformance": "LAG_PERF",
+        "peerGroup": "Software & Services",
+        "relatedControversy": [
+            "Customer Incidents"
+        ],
+        "peerEsgScorePerformance": {
+            "min": 7.44,
+            "avg": 20.921233108108108,
+            "max": 32.73
+        },
+        "peerGovernancePerformance": {
+            "min": 1.34,
+            "avg": 5.653254901960784,
+            "max": 10.54
+        },
+        "peerSocialPerformance": {
+            "min": 4.49,
+            "avg": 9.910980392156855,
+            "max": 21.64
+        },
+        "peerEnvironmentPerformance": {
+            "min": 0.05,
+            "avg": 3.1051764705882356,
+            "max": 6.87
+        },
+        "peerHighestControversyPerformance": {
+            "min": 0.0,
+            "avg": 0.6587837837837838,
+            "max": 4.0
+        },
+        "percentile": null,
+        "environmentPercentile": null,
+        "socialPercentile": null,
+        "governancePercentile": null,
+        "adult": false,
+        "alcoholic": false,
+        "animalTesting": false,
+        "catholic": null,
+        "controversialWeapons": false,
+        "smallArms": false,
+        "furLeather": false,
+        "gambling": false,
+        "gmo": false,
+        "militaryContract": false,
+        "nuclear": false,
+        "pesticides": false,
+        "palmOil": false,
+        "coal": false,
+        "tobacco": false
+    },
+    "defaultKeyStatistics": {
+        "maxAge": 1,
+        "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+        },
+        "enterpriseValue": {
+            "raw": 493458620416,
+            "fmt": "493.46B",
+            "longFmt": "493,458,620,416"
+        },
+        "forwardPE": {
+            "raw": 28.473913,
+            "fmt": "28.47"
+        },
+        "profitMargins": {
+            "raw": 0.45706,
+            "fmt": "45.71%"
+        },
+        "floatShares": {
+            "raw": 903667237,
+            "fmt": "903.67M",
+            "longFmt": "903,667,237"
+        },
+        "sharesOutstanding": {
+            "raw": 904889984,
+            "fmt": "904.89M",
+            "longFmt": "904,889,984"
+        },
+        "sharesShort": {
+            "raw": 5296719,
+            "fmt": "5.3M",
+            "longFmt": "5,296,719"
+        },
+        "sharesShortPriorMonth": {
+            "raw": 5125285,
+            "fmt": "5.13M",
+            "longFmt": "5,125,285"
+        },
+        "sharesShortPreviousMonthDate": {
+            "raw": 1740700800,
+            "fmt": "2025-02-28"
+        },
+        "dateShortInterest": {
+            "raw": 1743379200,
+            "fmt": "2025-03-31"
+        },
+        "sharesPercentSharesOut": {
+            "raw": 0.0058,
+            "fmt": "0.58%"
+        },
+        "heldPercentInsiders": {
+            "raw": 0.0051499996,
+            "fmt": "0.51%"
+        },
+        "heldPercentInstitutions": {
+            "raw": 0.90128,
+            "fmt": "90.13%"
+        },
+        "shortRatio": {
+            "raw": 1.69,
+            "fmt": "1.69"
+        },
+        "shortPercentOfFloat": {
+            "raw": 0.0066000004,
+            "fmt": "0.66%"
+        },
+        "beta": {
+            "raw": 1.064,
+            "fmt": "1.06"
+        },
+        "impliedSharesOutstanding": {
+            "raw": 7723880,
+            "fmt": "7.72M",
+            "longFmt": "7,723,880"
+        },
+        "morningStarOverallRating": {},
+        "morningStarRiskRating": {},
+        "category": null,
+        "bookValue": {
+            "raw": 7.095,
+            "fmt": "7.09"
+        },
+        "priceToBook": {
+            "raw": 74.701904,
+            "fmt": "74.70"
+        },
+        "annualReportExpenseRatio": {},
+        "ytdReturn": {},
+        "qtdReturn": {},
+        "beta3Year": {},
+        "totalAssets": {},
+        "yield": {},
+        "fundFamily": null,
+        "fundInceptionDate": {},
+        "legalType": null,
+        "threeYearAverageReturn": {},
+        "fiveYearAverageReturn": {},
+        "priceToSalesTrailing12Months": {},
+        "lastFiscalYearEnd": {
+            "raw": 1735603200,
+            "fmt": "2024-12-31"
+        },
+        "nextFiscalYearEnd": {
+            "raw": 1767139200,
+            "fmt": "2025-12-31"
+        },
+        "mostRecentQuarter": {
+            "raw": 1735603200,
+            "fmt": "2024-12-31"
+        },
+        "earningsQuarterlyGrowth": {
+            "raw": 0.197,
+            "fmt": "19.70%"
+        },
+        "revenueQuarterlyGrowth": {},
+        "netIncomeToCommon": {
+            "raw": 12874000384,
+            "fmt": "12.87B",
+            "longFmt": "12,874,000,384"
+        },
+        "trailingEps": {
+            "raw": 13.89,
+            "fmt": "13.89"
+        },
+        "forwardEps": {
+            "raw": 16.38,
+            "fmt": "16.38"
+        },
+        "pegRatio": {},
+        "lastSplitFactor": "10:1",
+        "lastSplitDate": {
+            "raw": 1390348800,
+            "fmt": "2014-01-22"
+        },
+        "enterpriseToRevenue": {
+            "raw": 17.519,
+            "fmt": "17.52"
+        },
+        "enterpriseToEbitda": {
+            "raw": 28.443,
+            "fmt": "28.44"
+        },
+        "52WeekChange": {
+            "raw": 0.14113522,
+            "fmt": "14.11%"
+        },
+        "SandP52WeekChange": {
+            "raw": 0.04740894,
+            "fmt": "4.74%"
+        },
+        "lastDividendValue": {
+            "raw": 0.76,
+            "fmt": "0.76"
+        },
+        "lastDividendDate": {
+            "raw": 1744156800,
+            "fmt": "2025-04-09"
+        },
+        "lastCapGain": {},
+        "annualHoldingsTurnover": {},
+        "latestFundingDate": {},
+        "latestAmountRaised": {},
+        "latestImpliedValuation": {},
+        "latestShareClass": null,
+        "leadInvestor": null,
+        "fundingToDate": {},
+        "totalFundingRounds": {}
+    },
+    "summaryProfile": {
+        "address1": "2000 Purchase Street",
+        "city": "Purchase",
+        "state": "NY",
+        "zip": "10577",
+        "country": "United States",
+        "phone": "914 249 2000",
+        "website": "https://www.mastercard.com",
+        "industry": "Credit Services",
+        "industryKey": "credit-services",
+        "industryDisp": "Credit Services",
+        "sector": "Financial Services",
+        "sectorKey": "financial-services",
+        "sectorDisp": "Financial Services",
+        "longBusinessSummary": "Mastercard Incorporated, a technology company, provides transaction processing and other payment-related products and services in the United States and internationally. The company offers integrated products and value-added services for account holders, merchants, financial institutions, digital partners, businesses, governments, and other organizations, such as programs that enable issuers to provide consumers with credits to defer payments; payment products and solutions that allow its customers to access funds in deposit and other accounts; prepaid programs services; consumer bill payment services; and commercial credit, debit, and prepaid payment products and solutions. It also provides solutions that enable businesses or governments to make payments to businesses, including Virtual Card Number, which is generated dynamically from a physical card and leverages the credit limit of the funding account; and a platform to optimize supplier payment enablement campaigns for financial institutions. In addition, the company offers Mastercard Move, which partners with digital messaging and payment platforms to enable consumers to send money directly within applications to other consumers; and partners with central banks, fintechs and financial institutions to help governments and nonprofits, as well as enables various cross-border payment flows. Further, it provides security solutions; personalization, issuer and merchant loyalty, and marketing services; advanced analytics, business intelligence, economic and location-based insights, payments consulting, and operational insights services; processing and gateway solutions; and open banking services. The company offers payment solutions and services under the MasterCard, Maestro, and Cirrus names. Mastercard Incorporated was founded in 1966 and is headquartered in Purchase, New York.",
+        "fullTimeEmployees": 35300,
+        "companyOfficers": [],
+        "executiveTeam": [],
+        "maxAge": 86400
+    },
+    "financialsTemplate": {
+        "code": "N",
+        "maxAge": 1
+    },
+    "summaryDetail": {
+        "maxAge": 1,
+        "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+        },
+        "previousClose": {
+            "raw": 527.33,
+            "fmt": "527.33"
+        },
+        "open": {
+            "raw": 537.74,
+            "fmt": "537.74"
+        },
+        "dayLow": {
+            "raw": 527.925,
+            "fmt": "527.92"
+        },
+        "dayHigh": {
+            "raw": 543.8192,
+            "fmt": "543.82"
+        },
+        "regularMarketPreviousClose": {
+            "raw": 527.33,
+            "fmt": "527.33"
+        },
+        "regularMarketOpen": {
+            "raw": 537.74,
+            "fmt": "537.74"
+        },
+        "regularMarketDayLow": {
+            "raw": 527.925,
+            "fmt": "527.92"
+        },
+        "regularMarketDayHigh": {
+            "raw": 543.8192,
+            "fmt": "543.82"
+        },
+        "dividendRate": {
+            "raw": 3.04,
+            "fmt": "3.04"
+        },
+        "dividendYield": {
+            "raw": 0.0057,
+            "fmt": "0.57%"
+        },
+        "exDividendDate": {
+            "raw": 1745539200,
+            "fmt": "2025-04-25"
+        },
+        "payoutRatio": {
+            "raw": 0.1901,
+            "fmt": "19.01%"
+        },
+        "fiveYearAvgDividendYield": {
+            "raw": 0.52,
+            "fmt": "0.52"
+        },
+        "beta": {
+            "raw": 1.064,
+            "fmt": "1.06"
+        },
+        "trailingPE": {
+            "raw": 38.157665,
+            "fmt": "38.16"
+        },
+        "forwardPE": {
+            "raw": 32.357143,
+            "fmt": "32.36"
+        },
+        "volume": {
+            "raw": 3048562,
+            "fmt": "3.05M",
+            "longFmt": "3,048,562"
+        },
+        "regularMarketVolume": {
+            "raw": 3048562,
+            "fmt": "3.05M",
+            "longFmt": "3,048,562"
+        },
+        "averageVolume": {
+            "raw": 3037660,
+            "fmt": "3.04M",
+            "longFmt": "3,037,660"
+        },
+        "averageVolume10days": {
+            "raw": 3287190,
+            "fmt": "3.29M",
+            "longFmt": "3,287,190"
+        },
+        "averageDailyVolume10Day": {
+            "raw": 3287190,
+            "fmt": "3.29M",
+            "longFmt": "3,287,190"
+        },
+        "bid": {
+            "raw": 0.0,
+            "fmt": "0.00"
+        },
+        "ask": {
+            "raw": 0.0,
+            "fmt": "0.00"
+        },
+        "bidSize": {
+            "raw": 1100,
+            "fmt": "1.1k",
+            "longFmt": "1,100"
+        },
+        "askSize": {
+            "raw": 800,
+            "fmt": "800",
+            "longFmt": "800"
+        },
+        "marketCap": {
+            "raw": 480771014656,
+            "fmt": "480.77B",
+            "longFmt": "480,771,014,656"
+        },
+        "yield": {},
+        "ytdReturn": {},
+        "qtdReturn": {},
+        "totalAssets": {},
+        "expireDate": {},
+        "strikePrice": {},
+        "openInterest": {},
+        "fiftyTwoWeekLow": {
+            "raw": 428.86,
+            "fmt": "428.86"
+        },
+        "fiftyTwoWeekHigh": {
+            "raw": 582.23,
+            "fmt": "582.23"
+        },
+        "priceToSalesTrailing12Months": {
+            "raw": 17.068592,
+            "fmt": "17.07"
+        },
+        "fiftyDayAverage": {
+            "raw": 539.7412,
+            "fmt": "539.74"
+        },
+        "twoHundredDayAverage": {
+            "raw": 509.6579,
+            "fmt": "509.66"
+        },
+        "trailingAnnualDividendRate": {
+            "raw": 2.74,
+            "fmt": "2.74"
+        },
+        "trailingAnnualDividendYield": {
+            "raw": 0.0051959874,
+            "fmt": "0.52%"
+        },
+        "navPrice": {},
+        "currency": "USD",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "coinMarketCapLink": null,
+        "volume24Hr": {},
+        "volumeAllCurrencies": {},
+        "circulatingSupply": {},
+        "algorithm": null,
+        "maxSupply": {},
+        "startDate": {},
+        "tradeable": false
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "1Q2024",
+                    "actual": {
+                        "raw": 3.31,
+                        "fmt": "3.31"
+                    },
+                    "estimate": {
+                        "raw": 3.23785,
+                        "fmt": "3.24"
+                    }
+                },
+                {
+                    "date": "2Q2024",
+                    "actual": {
+                        "raw": 3.59,
+                        "fmt": "3.59"
+                    },
+                    "estimate": {
+                        "raw": 3.50928,
+                        "fmt": "3.51"
+                    }
+                },
+                {
+                    "date": "3Q2024",
+                    "actual": {
+                        "raw": 3.89,
+                        "fmt": "3.89"
+                    },
+                    "estimate": {
+                        "raw": 3.74593,
+                        "fmt": "3.75"
+                    }
+                },
+                {
+                    "date": "4Q2024",
+                    "actual": {
+                        "raw": 3.82,
+                        "fmt": "3.82"
+                    },
+                    "estimate": {
+                        "raw": 3.68943,
+                        "fmt": "3.69"
+                    }
+                }
+            ],
+            "currentQuarterEstimate": {
+                "raw": 3.56772,
+                "fmt": "3.57"
+            },
+            "currentQuarterEstimateDate": "1Q",
+            "currentQuarterEstimateYear": 2025,
+            "earningsDate": [
+                {
+                    "raw": 1746102600,
+                    "fmt": "2025-05-01"
+                }
+            ],
+            "isEarningsDateEstimate": false
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2021,
+                    "revenue": {
+                        "raw": 18884000000,
+                        "fmt": "18.88B",
+                        "longFmt": "18,884,000,000"
+                    },
+                    "earnings": {
+                        "raw": 8333000000,
+                        "fmt": "8.33B",
+                        "longFmt": "8,333,000,000"
+                    }
+                },
+                {
+                    "date": 2022,
+                    "revenue": {
+                        "raw": 22237000000,
+                        "fmt": "22.24B",
+                        "longFmt": "22,237,000,000"
+                    },
+                    "earnings": {
+                        "raw": 10342000000,
+                        "fmt": "10.34B",
+                        "longFmt": "10,342,000,000"
+                    }
+                },
+                {
+                    "date": 2023,
+                    "revenue": {
+                        "raw": 25098000000,
+                        "fmt": "25.1B",
+                        "longFmt": "25,098,000,000"
+                    },
+                    "earnings": {
+                        "raw": 11607000000,
+                        "fmt": "11.61B",
+                        "longFmt": "11,607,000,000"
+                    }
+                },
+                {
+                    "date": 2024,
+                    "revenue": {
+                        "raw": 28167000000,
+                        "fmt": "28.17B",
+                        "longFmt": "28,167,000,000"
+                    },
+                    "earnings": {
+                        "raw": 13541000000,
+                        "fmt": "13.54B",
+                        "longFmt": "13,541,000,000"
+                    }
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "1Q2024",
+                    "revenue": {
+                        "raw": 6348000000,
+                        "fmt": "6.35B",
+                        "longFmt": "6,348,000,000"
+                    },
+                    "earnings": {
+                        "raw": 3093000000,
+                        "fmt": "3.09B",
+                        "longFmt": "3,093,000,000"
+                    }
+                },
+                {
+                    "date": "2Q2024",
+                    "revenue": {
+                        "raw": 6961000000,
+                        "fmt": "6.96B",
+                        "longFmt": "6,961,000,000"
+                    },
+                    "earnings": {
+                        "raw": 3341000000,
+                        "fmt": "3.34B",
+                        "longFmt": "3,341,000,000"
+                    }
+                },
+                {
+                    "date": "3Q2024",
+                    "revenue": {
+                        "raw": 7369000000,
+                        "fmt": "7.37B",
+                        "longFmt": "7,369,000,000"
+                    },
+                    "earnings": {
+                        "raw": 3593000000,
+                        "fmt": "3.59B",
+                        "longFmt": "3,593,000,000"
+                    }
+                },
+                {
+                    "date": "4Q2024",
+                    "revenue": {
+                        "raw": 7489000000,
+                        "fmt": "7.49B",
+                        "longFmt": "7,489,000,000"
+                    },
+                    "earnings": {
+                        "raw": 3513000000,
+                        "fmt": "3.51B",
+                        "longFmt": "3,513,000,000"
+                    }
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                {
+                    "raw": 1746102600,
+                    "fmt": "2025-05-01"
+                }
+            ],
+            "earningsCallDate": [
+                {
+                    "raw": 1746104400,
+                    "fmt": "2025-05-01"
+                }
+            ],
+            "isEarningsDateEstimate": false,
+            "earningsAverage": {
+                "raw": 3.56772,
+                "fmt": "3.57"
+            },
+            "earningsLow": {
+                "raw": 3.48,
+                "fmt": "3.48"
+            },
+            "earningsHigh": {
+                "raw": 3.74,
+                "fmt": "3.74"
+            },
+            "revenueAverage": {
+                "raw": 7127310410,
+                "fmt": "7.13B",
+                "longFmt": "7,127,310,410"
+            },
+            "revenueLow": {
+                "raw": 7016000000,
+                "fmt": "7.02B",
+                "longFmt": "7,016,000,000"
+            },
+            "revenueHigh": {
+                "raw": 7252000000,
+                "fmt": "7.25B",
+                "longFmt": "7,252,000,000"
+            }
+        },
+        "exDividendDate": {
+            "raw": 1745539200,
+            "fmt": "2025-04-25"
+        },
+        "dividendDate": {
+            "raw": 1746748800,
+            "fmt": "2025-05-09"
+        }
+    },
+    "pageViews": {
+        "shortTermTrend": "UP",
+        "midTermTrend": "UP",
+        "longTermTrend": "UP",
+        "maxAge": 1
+    },
+    "price": {
+        "maxAge": 1,
+        "preMarketChange": {},
+        "preMarketPrice": {},
+        "preMarketSource": "FREE_REALTIME",
+        "postMarketChangePercent": {
+            "raw": 0.00375463,
+            "fmt": "0.38%"
+        },
+        "postMarketChange": {
+            "raw": 1.98999,
+            "fmt": "1.99"
+        },
+        "postMarketTime": 1745452275,
+        "postMarketPrice": {
+            "raw": 532.0,
+            "fmt": "532.00"
+        },
+        "postMarketSource": "FREE_REALTIME",
+        "regularMarketChangePercent": {
+            "raw": 0.00508219,
+            "fmt": "0.51%"
+        },
+        "regularMarketChange": {
+            "raw": 2.67999,
+            "fmt": "2.68"
+        },
+        "regularMarketTime": 1745438402,
+        "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+        },
+        "regularMarketPrice": {
+            "raw": 530.01,
+            "fmt": "530.01"
+        },
+        "regularMarketDayHigh": {
+            "raw": 543.8192,
+            "fmt": "543.82"
+        },
+        "regularMarketDayLow": {
+            "raw": 527.925,
+            "fmt": "527.92"
+        },
+        "regularMarketVolume": {
+            "raw": 3048562,
+            "fmt": "3.05M",
+            "longFmt": "3,048,562.00"
+        },
+        "averageDailyVolume10Day": {
+            "raw": 3287190,
+            "fmt": "3.29M",
+            "longFmt": "3,287,190"
+        },
+        "averageDailyVolume3Month": {
+            "raw": 3037660,
+            "fmt": "3.04M",
+            "longFmt": "3,037,660"
+        },
+        "regularMarketPreviousClose": {
+            "raw": 527.33,
+            "fmt": "527.33"
+        },
+        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketOpen": {
+            "raw": 537.74,
+            "fmt": "537.74"
+        },
+        "strikePrice": {},
+        "openInterest": {},
+        "exchange": "NYQ",
+        "exchangeName": "NYSE",
+        "exchangeDataDelayedBy": 0,
+        "marketState": "PREPRE",
+        "quoteType": "EQUITY",
+        "symbol": "MA",
+        "underlyingSymbol": null,
+        "shortName": "Mastercard Incorporated",
+        "longName": "Mastercard Incorporated",
+        "currency": "USD",
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "currencySymbol": "$",
+        "fromCurrency": null,
+        "toCurrency": null,
+        "lastMarket": null,
+        "volume24Hr": {},
+        "volumeAllCurrencies": {},
+        "circulatingSupply": {},
+        "marketCap": {
+            "raw": 480771014656,
+            "fmt": "480.77B",
+            "longFmt": "480,771,014,656.00"
+        }
+    },
+    "corporateActions": {
+        "corporateActions": [],
+        "maxAge": 1
+    },
+    "financialData": {
+        "maxAge": 86400,
+        "currentPrice": {
+            "raw": 530.01,
+            "fmt": "530.01"
+        },
+        "targetHighPrice": {
+            "raw": 685.0,
+            "fmt": "685.00"
+        },
+        "targetLowPrice": {
+            "raw": 466.1,
+            "fmt": "466.10"
+        },
+        "targetMeanPrice": {
+            "raw": 613.0139,
+            "fmt": "613.01"
+        },
+        "targetMedianPrice": {
+            "raw": 616.5,
+            "fmt": "616.50"
+        },
+        "recommendationMean": {
+            "raw": 1.75,
+            "fmt": "1.75"
+        },
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": {
+            "raw": 36,
+            "fmt": "36",
+            "longFmt": "36"
+        },
+        "totalCash": {
+            "raw": 8771999744,
+            "fmt": "8.77B",
+            "longFmt": "8,771,999,744"
+        },
+        "totalCashPerShare": {
+            "raw": 9.621,
+            "fmt": "9.62"
+        },
+        "ebitda": {
+            "raw": 17348999168,
+            "fmt": "17.35B",
+            "longFmt": "17,348,999,168"
+        },
+        "totalDebt": {
+            "raw": 18986000384,
+            "fmt": "18.99B",
+            "longFmt": "18,986,000,384"
+        },
+        "quickRatio": {
+            "raw": 0.653,
+            "fmt": "0.65"
+        },
+        "currentRatio": {
+            "raw": 1.026,
+            "fmt": "1.03"
+        },
+        "totalRevenue": {
+            "raw": 28167000064,
+            "fmt": "28.17B",
+            "longFmt": "28,167,000,064"
+        },
+        "debtToEquity": {
+            "raw": 291.42,
+            "fmt": "291.42%"
+        },
+        "revenuePerShare": {
+            "raw": 30.451,
+            "fmt": "30.45"
+        },
+        "returnOnAssets": {
+            "raw": 0.22715999,
+            "fmt": "22.72%"
+        },
+        "returnOnEquity": {
+            "raw": 1.90557,
+            "fmt": "190.56%"
+        },
+        "grossProfits": {
+            "raw": 28167000064,
+            "fmt": "28.17B",
+            "longFmt": "28,167,000,064"
+        },
+        "freeCashflow": {
+            "raw": 14463750144,
+            "fmt": "14.46B",
+            "longFmt": "14,463,750,144"
+        },
+        "operatingCashflow": {
+            "raw": 14780000256,
+            "fmt": "14.78B",
+            "longFmt": "14,780,000,256"
+        },
+        "earningsGrowth": {
+            "raw": 0.223,
+            "fmt": "22.30%"
+        },
+        "revenueGrowth": {
+            "raw": 0.144,
+            "fmt": "14.40%"
+        },
+        "grossMargins": {
+            "raw": 1.0,
+            "fmt": "100.00%"
+        },
+        "ebitdaMargins": {
+            "raw": 0.61592996,
+            "fmt": "61.59%"
+        },
+        "operatingMargins": {
+            "raw": 0.56323004,
+            "fmt": "56.32%"
+        },
+        "profitMargins": {
+            "raw": 0.45706,
+            "fmt": "45.71%"
+        },
+        "financialCurrency": "USD"
+    }
+}

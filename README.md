@@ -1,1 +1,1 @@
-Analysis of job markets based on public web data from Linkedin (and Glassdoor).
+Test daytrading stratgies using only public web data.
